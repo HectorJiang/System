@@ -1,0 +1,39 @@
+{
+    "short_time":{
+        "postgraduate": {
+            "math":{
+                "高数":{
+                "chapter01":{"outline":"","img":["img01","img02"],"latex":"","memory":"","example":{"tiankong":[{"q":"img01","q_latex":"","a":"answer_img","origin":"1000题p12_1231","type":"选择题","remark":"粗心","memory":""},{"img":"img02","origin":"660题p12_1231","type":"填空题","remark":"经典好题","memory":""},{"img":"img03","origin":"880题p12_1231","type":"选择题","memory":""}],"xuanze":[]}},
+                "chapter02":{"outline":"","img":["img01","img02"],"latex":"","memory":"","example":{"tiankong":[{"q":"img01","q_latex":"","a":"answer_img","origin":"1000题p12_1231","type":"选择题","remark":"粗心","memory":""},{"img":"img02","origin":"660题p12_1231","type":"填空题","remark":"经典好题","memory":""},{"img":"img03","origin":"880题p12_1231","type":"选择题","memory":""}],"xuanze":[]}},
+                "chapter03":{"outline":"","img":["img01","img02"],"latex":"","memory":"","example":{"tiankong":[{"q":"img01","q_latex":"","a":"answer_img","origin":"1000题p12_1231","type":"选择题","remark":"粗心","memory":""},{"img":"img02","origin":"660题p12_1231","type":"填空题","remark":"经典好题","memory":""},{"img":"img03","origin":"880题p12_1231","type":"选择题","memory":""}],"xuanze":[]}},
+                "chapter04":{"outline":"","img":["img01","img02"],"latex":"","memory":"","example":{"tiankong":[{"q":"img01","q_latex":"","a":"answer_img","origin":"1000题p12_1231","type":"选择题","remark":"粗心","memory":""},{"img":"img02","origin":"660题p12_1231","type":"填空题","remark":"经典好题","memory":""},{"img":"img03","origin":"880题p12_1231","type":"选择题","memory":""}],"xuanze":[]}},
+                "reference_file":["./1000题.pdf"]
+                },
+                "线性代数chapter01":[],
+                "线性代数chapter02":[],
+                "线性代数chapter03":[],
+                "线性代数chapter04":[],
+                "线性代数chapter05":[],
+                "线性代数chapter06":[],
+                "概率论chapter01":[],
+                "概率论chapter02":[],
+                "概率论chapter03":[]
+            },
+            "408":{
+                "操作系统":{},
+                "数据结构":{},
+                "计算机组成原理":{},
+                "计算机网络":{}
+            }
+        }
+    },
+    "long_time":{
+        
+    },
+    "heart":{
+        
+    },
+    "progress":{
+        
+    }
+}
