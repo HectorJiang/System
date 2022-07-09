@@ -1,4 +1,10 @@
 {
-    "receiver":[],
-    
+    "email_server":"smtp.qq.com",
+    "email_server_port":25,
+    "email_user":"hector.jiang@foxmail.com",
+    "email_pass":"",
+    "sender":"邮件自动发送",
+    "receivers":["hector.jiang@outlook.com"],
+    "subject":"Test subject",
+    "content":"Test subject"
 }
