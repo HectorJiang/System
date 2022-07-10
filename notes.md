@@ -1,7 +1,7 @@
 <!--
  * @Author: Hector Jing
  * @Date: 2022-06-18 22:59:32
- * @LastEditTime: 2022-07-09 00:06:21
+ * @LastEditTime: 2022-07-09 02:19:41
  * @Description: 
 -->
 + Everything only for creating value.
@@ -36,3 +36,7 @@ Task schedule remind:
 Daily habit formation:
 
 + [ ] deep thought
+
+
+
+网站私人化：定时停止访问

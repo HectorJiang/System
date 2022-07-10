@@ -1,0 +1,29 @@
+{
+    "version":"",
+    "status":"",
+    "globalcrontab":"",
+    "task":{
+        "everyday":[
+            {
+                "date":"20220709",
+                "todo":[
+                    {
+                        "content":"complete...",
+                        "level":"01",
+                        "status":"true"
+                    }
+                ]
+            }
+        ],
+        "crontab":[
+            {
+                "name":"test",
+                "crontab":""
+            },
+            {
+                "name":"test02",
+                "crontab":""
+            }
+        ]
+    }
+}
