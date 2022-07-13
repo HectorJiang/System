@@ -1,19 +1,23 @@
 '''
 Author: Hector Jing
 Date: 2022-07-09 12:26:33
-LastEditTime: 2022-07-10 21:55:06
-Description:
-'''
-import json
-
-from sympy import content
-with open("rules.json", "r", encoding="utf8") as f:    
-    jsonObj = json.load(f)
-    
-
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
+
+
+class APIEmail:
+    def __init__(self):
+        jsonObj = '';
+    @property
+    def readJson(self):
+        with open("rules.json", "r", encoding="utf8") as f:    
+            jsonObj = json.load(f)
+        return jsonObj;
+    @classmethod
+    
+    # de
+
 
 
 # 3rd party SMTP service
